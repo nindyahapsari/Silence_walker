@@ -32,6 +32,7 @@ testCompile 'junit:junit:4.12'
 
 # License 
 
+Silence Walker
 Copyright 2018 Nindya Hapsari
 
 Licensed under the Apache License, Version 2.0 (the "License");
